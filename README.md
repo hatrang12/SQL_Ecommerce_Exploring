@@ -960,10 +960,10 @@ However, the add-to-cart rate and purchase rate are notably higher in March 2017
   
 ## 7. Conclusion
 
-- This is the author's opportunity to learn about the marketing industry and the customer journey through this e-commerce dataset
+- This e-commerce dataset provides the opportunity to learn about the marketing industry and the customer journey.
 
-- In analyzing the e-commerce dataset using BigQuery, the author understands customer behavior through the bounce rate, transaction, revenue, visit, and purchase.
-  
-- The author gained insights into which marketing channels drive traffic and sales by examining referral sources. Investing resources in effective channels and optimizing underperforming ones can improve marketing ROI.
+- The author understands customer behavior through the bounce rate, transaction, revenue, visit, and purchase when analyzing the e-commerce dataset with BigQuery.
 
-- In conclusion, exploring the e-commerce dataset on BigQuery unearthed a wealth of insights critical for strategic decision-making to help the business can optimize operations, enhance customer experiences, and drive revenue.
+- By examining referral sources, the author gained insight into which marketing channels drive traffic and sales. Marketing ROI can be improved by investing resources in effective channels and optimizing underperforming ones.
+
+- Finally, exploring the e-commerce dataset on BigQuery yielded a wealth of insights critical for strategic decision-making to assist the business in optimizing operations, improving customer experiences, and driving revenue.
